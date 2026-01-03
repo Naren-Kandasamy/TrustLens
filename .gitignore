@@ -1,0 +1,77 @@
+# =====================
+# OS / Editor junk
+# =====================
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# =====================
+# Python
+# =====================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.env
+
+# =====================
+# Node / Frontend
+# =====================
+node_modules/
+dist/
+build/
+npm-debug.log*
+yarn-error.log*
+
+# =====================
+# Logs & temp files
+# =====================
+*.log
+*.tmp
+*.temp
+
+# =====================
+# Data files (ignored)
+# =====================
+data/
+datasets/
+*.csv
+*.tsv
+*.xlsx
+*.jsonl
+
+# =====================
+# Images & media
+# =====================
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.svg
+*.mp4
+*.mov
+*.avi
+
+# =====================
+# Archives
+# =====================
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# =====================
+# Model / large binaries
+# =====================
+*.h5
+*.pt
+*.pth
+*.onnx
+*.ckpt
