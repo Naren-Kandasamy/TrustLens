@@ -1,0 +1,5 @@
+{
+  "name": "TrustLens",
+  "description": "An application for users to upload images, detect hidden privacy risks like metadata, faces, and potential manipulations, and apply protections like blurring or cloaking.",
+  "requestFramePermissions": []
+}

@@ -75,3 +75,16 @@ datasets/
 *.pth
 *.onnx
 *.ckpt
+# =====================
+# Python virtualenv internals (CRITICAL)
+# =====================
+**/Lib/
+**/Scripts/
+**/Include/
+**/site-packages/
+# =====================
+# Native binaries
+# =====================
+*.dll
+*.so
+*.dylib

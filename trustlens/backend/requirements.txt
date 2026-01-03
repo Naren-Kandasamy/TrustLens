@@ -1,0 +1,12 @@
+opencv-contrib-python
+numpy
+Pillow
+mediapipe
+pytesseract
+pyzbar
+scikit-image
+uvicorn
+fastapi
+python-multipart
+exifread
+requests
