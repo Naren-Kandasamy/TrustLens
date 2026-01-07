@@ -57,7 +57,7 @@ The project is split into a high-performance Python backend and a modern React f
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/username/trustlens.git
+git clone https://github.com/Naren-Kandasamy/TrustLens
 cd trustlens
 ```
 
